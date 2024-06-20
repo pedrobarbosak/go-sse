@@ -1,9 +1,3 @@
-# go-sse
-Golang Server Side Events
-
-#### Example
-
-```go
 package main
 
 import (
@@ -46,4 +40,3 @@ func main() {
 		fmt.Printf("error starting server: %s\n", err)
 	}
 }
-```
